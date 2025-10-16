@@ -30,4 +30,8 @@ def run():
     HTTPServer(('localhost', 8000), BasicAPI).serve_forever()
 
 print("Application is running")
+<<<<<<< HEAD
 run()
+=======
+run()
+>>>>>>> d2e922e48ec4b1063e3f4d5b82f7d508d2b62917
